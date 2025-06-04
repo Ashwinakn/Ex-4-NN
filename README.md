@@ -97,7 +97,7 @@ In the backward pass,
 
 1. Import the necessary libraries of python.
 
-**Name:** ARJUN N S
+**Name:** ASHWINA K N
 
 3. Divide the dataset into two parts. While the first part contains the first four columns that we assign in the variable x. Likewise, the second part contains only the last column that is the class label. Further, assign it to the variable y.
 
